@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1,Globo RJ
+http://95.211.149.215:8081/look/globo/playlist.m3u8
+#EXTINF:-1,Record SP
+http://95.211.149.215:8081/look/record/playlist .m3u8
+#EXTINF:-1,Rede TV RJ
+http://95.211.149.215:8081/look/redetv/playlist.m3u8
+#EXTINF:-1,ESPN Brasil
+http://95.211.149.215:8081/look/espnbr/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+http://95.211.149.215:8081/look/cartoon/playlist.m3u8
+#EXTINF:-1,Globo SP
+http://5.79.68.138:8081/look/sptv/playlist.m3u8
+#EXTINF:-1,SBT RJ
+http://5.79.68.138:8081/look/sbt/playlist.m3u8
+#EXTINF:-1,Banda SP
+http://5.79.68.138:8081/look/band/playlist.m3u8
+#EXTINF:-1,ESPN
+http ://5.79.68.138:8081/look/espn/playlist.m3u8
+#EXTINF:-1,ESPN
+http://5.79.68.138:8081/look/espn/playlist.m3u8
+#EXTINF:-1,Esporte Interativo
+http://5.79.68.138:8081/look/ei/playlist.m3u8
+#EXTINF:-1,EI Max
+http://5.79.68.138:8081/look/eimax/playlist.m3u8
+#EXTINF:-1,Combate
+http://5.79.68.138:8081/look/combate/playlist.m3u8
+#EXTINF:-1,SporTV
+http://5.79.68.138:8081/look/sportv/playlist.m3u8
+#EXTINF :-1,SporTV 2
+http://5.79.68.138:8081/look/sportv2/playlist.m3u8
+#EXTINF:-1,SporTV 3
+http://5.79.68.138:8081/look/sportv3/playlist.m3u8
+#EXTINF:-1,Nickelodeon
+http://5.79.68.138:8081/look/nick/playlist.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://5.79.68.138:8081/look/tcpipoca/playlist.m3u8
+#EXTINF:-1,Globo News
+http://5.79.68.138:8081/look/globonews/playlist.m3u8
+#EXTINF:-1,Notícias da Banda
+Português: http://5.79.68.138:8081/look/bandnews/playlist.m3u8
+#EXTINF:-1,Animal Planet
+http://5.79.68.138:8081/look/animal/playlist.m3u8
+#EXTINF:-1,Nat Geo
+http://5.79.68.138:8081/look/natgeo/playlist.m3u8
+#EXTINF:-1,Histórico
+http://5.79.68.138:8081/look/history/playlist.m3u8
+#EXTINF:-1,Discovery Channel
+http ://5.79.68.138:8081/look/discovery/playlist.m3u8
+#EXTINF:-1,MEGAPIX
+http://5.79.68.138:8081/look/megapix/playlist.m3u8
